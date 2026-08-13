@@ -1,2 +1,2 @@
-# Repository for final project Xadefqw
+# Repository for final project
 Final project
